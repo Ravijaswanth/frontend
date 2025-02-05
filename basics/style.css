@@ -1,4 +1,8 @@
-/* From Uiverse.io by Nawsome */ 
+
+html{
+  color-scheme:  light dark;
+}
+
 .wheel-and-hamster {
     --dur: 1s;
     position: relative;
